@@ -1,0 +1,24 @@
+header{
+  background-color: rgb(246, 255, 0);
+  
+  margin-top: 0%;
+  width: 100%;
+
+}
+footer {
+  position: absolute;
+  bottom: 0px;
+  height: 100px;
+  width: 100%;
+  color: #ead9d9;
+  text-align: center;
+}
+.note{
+  margin-left: 5px;
+  border-radius: 5px;
+  box-shadow:0 2px 10px #f36262;
+  float: left;
+  width: auto;
+  height: 120px;
+  padding:15px;
+}
